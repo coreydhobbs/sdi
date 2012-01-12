@@ -1,6 +1,6 @@
 //Corey Hobbs
-//01/04/12
-//Deliverable 1
+//01/11/12
+//Deliverable 2
 //Which Skittle is my favorite//
 
 var skittle = "skittle";
